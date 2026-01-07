@@ -14,11 +14,20 @@
     "build": "webpack --config webpack.config.prod.js"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "copy-webpack-plugin": "^11.0.0",
     "html-webpack-plugin": "^5.6.0",
     "webpack": "^5.91.0",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^5.0.4",
     "webpack-merge": "^5.10.0"
+=======
+    "copy-webpack-plugin": "^13.0.1",
+    "html-webpack-plugin": "^5.6.4",
+    "webpack": "^5.101.3",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2",
+    "webpack-merge": "^6.0.1"
+>>>>>>> 333872e548db57c7311193c0dacc7c52ec964cda
   }
 }

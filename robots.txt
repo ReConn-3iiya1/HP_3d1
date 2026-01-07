@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # www.robotstxt.org/
+=======
+# https://www.robotstxt.org/
+>>>>>>> 333872e548db57c7311193c0dacc7c52ec964cda
 
 # Allow crawling of all content
 User-agent: *
